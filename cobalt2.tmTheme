@@ -156,9 +156,6 @@
         <string></string>
         <key>foreground</key>
         <string>#CCCCCC</string>
-        <key>background</key>
-        <string>#0d3a58</string>
-
       </dict>
     </dict>
     <dict>
@@ -845,8 +842,6 @@
       <dict>
         <key>foreground</key>
         <string>#ffa5f3</string>
-        <key>background</key>
-        <string>#1d3c52</string>
       </dict>
     </dict>
 
